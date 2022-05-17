@@ -1,6 +1,6 @@
 ## Auto sending message in telegram all group at the same time
 
-### how to use it
+## How to use it
 
 #### install python
 #### install pip
