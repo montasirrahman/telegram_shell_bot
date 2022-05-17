@@ -5,7 +5,7 @@
 #### install python
 #### install pip
 
-##### After that
+##### After that run this ::
 ```
 pip3 install telethon
 ```
