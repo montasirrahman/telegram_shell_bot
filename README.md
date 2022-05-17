@@ -4,6 +4,8 @@
 
 #### install python
 #### install pip
+
+##### After that
 ```
 pip3 install telethon
 ```
